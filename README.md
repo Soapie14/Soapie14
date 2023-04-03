@@ -2,4 +2,5 @@
 - 👀 I’m interested in coding(especially Python), video games, softball, working out, and my dog!
 - 🌱 I’m currently learning Python algorithms, more in depth JavaScript, and continuing to learn everything else that comes with development!
 - 💞️ I’m looking to collaborate on projects and ideas! I am new to coding, but I want to figure out how to work together on creating all possibilities! 
+- 📚 Projects I am currently working on are under Projects folder, Final projects for class are in Web Development and Python 2.0!
 - 📫 How to reach me: best way is by e-mail or on LinkedIn https://www.linkedin.com/in/sophie-slagle-2633a822a/
