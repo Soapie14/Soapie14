@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Soapie14 or Sophie!
-- 👀 I’m interested in coding, video games, softball, working out, and my dog!
-- 🌱 I’m currently an Intern at Sports Excitement working on the front-end of their VeloSAty project. I am using React.js, JavaScript, Tailwind(sometimes bootstrap), HTML, and CSS to create front-end components.
+- 👀 I’m interested in coding, video games, softball, working out, and my dog! I am currently a softball coach teaching how to Pitch! I spend my free time disc golfing, working out, playing with my dog, or streaming video games like Apex Legends, Red Dead Redeption, Call of Duty, and many more!
+- 🌱 My first internship was at Sports Excitement working on the front-end of their VeloSAty project. I used React.js, JavaScript, Tailwind(sometimes bootstrap), HTML, and CSS to create front-end components.
 - 💞️ I’m looking to collaborate on projects and ideas! I love learning to code, and I want to figure out how to work together on creating all possibilities! 
 - 📚 Projects I am currently working on are under Projects folder, Final projects for class are in Web Development and Python 2.0!
 - 📫 How to reach me: best way is by e-mail or on LinkedIn https://www.linkedin.com/sophieslagle
